@@ -11,7 +11,7 @@ A maneira mais fácil de testar os projetos é através do **Google Colab**, que
 
 ---
 
-## 📂 Projetos Incluídos
+## Projetos Incluídos
 
 ### 1. Aprendizado Supervisionado 
 * **O que faz:** Treina um modelo com imagens rotuladas para que ele aprenda a reconhecer padrões visuais e classificar novas imagens como "gato" ou "cachorro".
